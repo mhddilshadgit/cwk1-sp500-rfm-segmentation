@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.matplotlib_cache/
+.env
+.env.*
+*.log
+data/
+outputs/
+docs/reference/
+scratch_logos/
+ref/
+~$*
